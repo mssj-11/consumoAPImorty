@@ -2,6 +2,7 @@
 
 
 ##	Creación del proyecto
+Ingresando a PowerShell / CMD
 ```
 ng new consumoAPImorty
 ```
@@ -11,15 +12,19 @@ ng new consumoAPImorty
 ng serve -o
 ```
 
-##	Correr la App
+##	Construcción de la App, para reducir peso
 ```
 ng build
 ```
 
-
+#   Componentes:
 ##	Creación del componente `home`
 ```
 ng g c home
+```
+##	Renderizar al componente `home`
+```
+ng serve -o
 ```
 
 
