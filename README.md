@@ -26,7 +26,10 @@ ng g c home
 ```
 ng serve -o
 ```
-
+##	Creación del del servicio `api`
+```
+ng g s service/api
+```
 
 
 
