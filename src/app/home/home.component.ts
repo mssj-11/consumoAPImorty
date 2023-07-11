@@ -19,7 +19,7 @@ export class HomeComponent implements OnInit{
 
   llenarData(){
     this.apiService.getData().subscribe( data => {
-      this.data = data;
+      this.data = data.results;
       console.log('Datos cargados');
       console.log(this.data);
     });
