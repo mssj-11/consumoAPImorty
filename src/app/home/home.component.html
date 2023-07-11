@@ -1,1 +1,15 @@
-<p>home works!</p>
+<h1>Consumo API Rick and Morty</h1>
+
+<main>
+  <article *ngFor="let item of data">
+    <div class="image-container">
+      <img src="{{ item.image }}" alt="Personaje">
+    </div>
+
+    
+    <h2>{{ item.name }}</h2>
+    <span>Gender: {{ item.gender }}</span>
+    <span>Status: {{ item.status }}</span>
+    <span>Species: {{ item.species }}</span>
+  </article>
+</main>
