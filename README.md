@@ -1,5 +1,9 @@
 #	Consumo de API de Rick and Morty con Angular
 
+##   [DEMO](https://angular-api-rickandmorty.netlify.app/)
+##   Vista
+<p align="center"><img src="vista.png" /></p>
+
 
 ##	Creación del proyecto
 Ingresando a PowerShell / CMD
@@ -37,7 +41,7 @@ ng g s service/api
 
 
 
-#   **************************************************************************
+#   *************************************************************
 
 # ConsumoAPImorty
 
