@@ -3,6 +3,7 @@
 ##   [DEMO](https://github.com/mssj-11/consumoAPImorty)
 ##   Vista
 <p align="center"><img src="vista.png" /></p>
+
 ##   [Version con JavaScript puro](https://github.com/mssj-11/Rick-Morty/)
 
 ##	Creación del proyecto
